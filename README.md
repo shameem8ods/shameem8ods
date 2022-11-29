@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **frontier unifront-engine**
 
-- 👯 I’m looking to collaborate on **javscript stacks**
+- 👯 I’m looking to collaborate on **javascript stacks**
 
 - 📫 How to reach me **mshameemp97@gmail.com**
 
